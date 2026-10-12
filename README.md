@@ -88,7 +88,3 @@ HTML与视频是课堂示意，候选对应关系预先设定，并未运行真�
 在课程信息平台提交：**1份方案图＋300—500字设计说明＋6张带文件名的样例图**。设计说明包括任务选择、两项针对性调整、连续追踪的数据需求。
 
 教师评价＋学生自评＋学生互评，共同检查：需求是否拆清、方法是否针对图像中的困难、追踪方案是否说明数据条件。
-
-**可选进阶：**运行分类或检测示例，展示一次漏检或误检，并提出改进；训练时保持训练集、验证集和测试集分离。
-
-数据来源与引用：K. Song and Y. Yan, “A noise robust method based on completed local binary patterns for hot-rolled steel strip surface defects,” Applied Surface Science, 2013；检测数据对应论文：Yu He et al., “An End-to-end Steel Surface Defect Detection Approach via Fusing Multiple Hierarchical Features,” IEEE Transactions on Instrumentation and Measurement, 2020。数据使用以官方说明为准，本仓库提供作业说明与外部数据入口。
